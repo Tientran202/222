@@ -1,0 +1,5 @@
+/Users/tranngoctien/Documents/222/Csharp/ThucHanh/nhapThongTinNguoiDung/nhapThongTinNguoiDung/obj/Debug/net7.0/baiTapTuan2.csproj.AssemblyReference.cache
+/Users/tranngoctien/Documents/222/Csharp/ThucHanh/nhapThongTinNguoiDung/nhapThongTinNguoiDung/obj/Debug/net7.0/baiTapTuan2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranngoctien/Documents/222/Csharp/ThucHanh/nhapThongTinNguoiDung/nhapThongTinNguoiDung/obj/Debug/net7.0/baiTapTuan2.AssemblyInfoInputs.cache
+/Users/tranngoctien/Documents/222/Csharp/ThucHanh/nhapThongTinNguoiDung/nhapThongTinNguoiDung/obj/Debug/net7.0/baiTapTuan2.AssemblyInfo.cs
+/Users/tranngoctien/Documents/222/Csharp/ThucHanh/nhapThongTinNguoiDung/nhapThongTinNguoiDung/obj/Debug/net7.0/baiTapTuan2.csproj.CoreCompileInputs.cache

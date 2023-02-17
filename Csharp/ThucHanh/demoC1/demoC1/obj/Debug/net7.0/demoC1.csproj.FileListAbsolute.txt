@@ -1,0 +1,15 @@
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/bin/Debug/net7.0/demoC1
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/bin/Debug/net7.0/demoC1.deps.json
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/bin/Debug/net7.0/demoC1.runtimeconfig.json
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/bin/Debug/net7.0/demoC1.dll
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/bin/Debug/net7.0/demoC1.pdb
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/demoC1.csproj.AssemblyReference.cache
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/demoC1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/demoC1.AssemblyInfoInputs.cache
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/demoC1.AssemblyInfo.cs
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/demoC1.csproj.CoreCompileInputs.cache
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/demoC1.dll
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/refint/demoC1.dll
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/demoC1.pdb
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/demoC1.genruntimeconfig.cache
+/Users/tranngoctien/Documents/222/Csharp/demoC1/demoC1/obj/Debug/net7.0/ref/demoC1.dll
